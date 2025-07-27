@@ -15,10 +15,6 @@ Core Competencies
 <img width="789" height="201" alt="image" src="https://github.com/user-attachments/assets/33e91917-76ac-4c84-bcb9-17f7d8b6818b" />
 
 
-<img width="1551" height="885" alt="image" src="https://github.com/user-attachments/assets/a01e51d7-79b6-4afa-a0e9-c1f76f0cdf4a" />
-
-
-
 
 🌱 Currently Learning
 
