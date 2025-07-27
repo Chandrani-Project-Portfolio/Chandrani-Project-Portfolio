@@ -1,31 +1,60 @@
 👋 Hi, I'm Chandrani Das
 
-🎯 Business Analyst | Data Analytics | Process Excellence | Organizational Psychology
+🎯 **Aspiring Business Analyst | Data Analytics Enthusiast | Process-Oriented Thinker**
 
-💡 I'm a curious mind- blending process thinking, psychological insight, and data-driven decision-making to drive business transformation and people development. I’m a data-driven professional with 4.7 years of experience. 
+---
 
-I specialize in turning raw data into strategic decisions using tools like Power BI, Tableau, SQL, and Excel.
+Welcome to my GitHub! I'm a passionate and data- driven professional with **4.7 years of industry experience**, aspiring for a full-time **Business Analyst** role. I specialize in uncovering actionable insights from data using tools like **Power BI**, **SQL**, **Excel**, and **Tableau**.
+
+With a strong foundation in **process improvement**, stakeholder communication, and data storytelling, I thrive on solving complex business problems through simple, scalable solutions.
+
+A curious mind- blending process thinking, psychological insight, and data-driven decision-making to drive business transformation and people development. 
 
 My foundation in organizational psychology enhances my stakeholder management and communication, enabling me to deliver solutions that are not only data-backed but also people-centric.
 
 🔍 Currently exploring opportunities in Business Analysis, Project Management, Quality Control — where human behavior meets operational excellence.
 
-Core Competencies
+---
 
-<img width="789" height="201" alt="image" src="https://github.com/user-attachments/assets/33e91917-76ac-4c84-bcb9-17f7d8b6818b" />
+## 💼 What I Bring to the Table
 
+- **Business Analysis**  
+  - Requirements Gathering | Root Cause Analysis | Documentation | Stakeholder Engagement
 
+- **Data Analytics**  
+  - Dashboarding & Visualization | Ad-hoc Analysis | KPI Reporting | Trend Analysis
 
-🌱 Currently Learning
+- **Tech Stack & Tools**  
+  - 🟨 Power BI (Advance).
+  - 🔵 SQL (Intermediate).
+  - 🟢 Excel (Advanced Formulas, PivotTables, Dashboards).
+  - 🔴 Tableau (Advance, Storytelling).  
+  - 📁 Agile | Lean Six Sigma (Process Improvement Tools and Methodologies).
 
-<img width="325" height="219" alt="image" src="https://github.com/user-attachments/assets/05162adf-a913-449d-90f8-b13fc4d1ba67" />
+- **Certifications**  
+  - 📌 Certified Associate in Project Management (CAPM)  
+  - 📌 Lean Six Sigma Green Belt  
+  - 📌 Data Analytics for Business Professionals – LinkedIn Learning  
 
+---
 
-📬 Let's Connect!
+## 🌱 Currently Learning
 
-💼 LinkedIn- https://www.linkedin.com/in/das-chandrani369/
+- Advanced SQL for complex reporting  
+- Business Case Modeling  
+- Python (pandas, matplotlib) for data exploration  
+- Creating portfolio-ready BA case studies  
 
-📫 Email- chandranidas234@gmail.com
+---
 
-🌐 Portfolio (coming soon!)
+## 🤝 Let’s Connect
 
+- 🔗 LinkedIn- https://www.linkedin.com/in/das-chandrani369/ 
+- 📫 Email: chandranidas234@gmail.com  
+- 🌐 Portfolio (coming soon!)
+
+---
+
+> _“Data is the new oil — and I love refining it into insights that drive decisions.”_
+
+Thanks for stopping by! Feel free to check out my pinned projects below 👇
