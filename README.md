@@ -1,16 +1,30 @@
-## Hi there 👋
+👋 Hi, I'm Chandrani Das
 
-<!--
-**Chandrani-Project-Portfolio/Chandrani-Project-Portfolio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 Business Analyst | Data Analytics | Process Excellence | Organizational Psychology
 
-Here are some ideas to get you started:
+💡 I'm a curious mind- blending process thinking, psychological insight, and data-driven decision-making to drive business transformation and people development. I’m a data-driven professional with 4.7 years of experience. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I specialize in turning raw data into strategic decisions using tools like Power BI, Tableau, SQL, and Excel.
+
+My foundation in organizational psychology enhances my stakeholder management and communication, enabling me to deliver solutions that are not only data-backed but also people-centric.
+
+🔍 Currently exploring opportunities in Business Analysis, Project Management, Quality Control — where human behavior meets operational excellence.
+
+Core Competencies
+
+<img width="789" height="201" alt="image" src="https://github.com/user-attachments/assets/33e91917-76ac-4c84-bcb9-17f7d8b6818b" />
+
+
+🌱 Currently Learning
+
+<img width="325" height="219" alt="image" src="https://github.com/user-attachments/assets/05162adf-a913-449d-90f8-b13fc4d1ba67" />
+
+
+📬 Let's Connect!
+
+💼 LinkedIn- https://www.linkedin.com/in/das-chandrani369/
+
+📫 Email- chandranidas234@gmail.com
+
+🌐 Portfolio (coming soon!)
+
