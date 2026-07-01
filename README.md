@@ -1,60 +1,80 @@
 👋 Hi, I'm Chandrani Das
+Implementation & Benefits Operations Professional | AI Workflow Builder | Process Excellence | Lean Six Sigma Green Belt | Exploring Practical AI for Operations
 
-🎯 **Aspiring Business Analyst | Data Analytics Enthusiast | Process-Oriented Thinker**
+---------------------------------
 
----
+About Me
 
-Welcome to my GitHub! I'm a passionate and data- driven professional with **4.7 years of industry experience**, aspiring for a full-time **Business Analyst** role. I specialize in uncovering actionable insights from data using tools like **Power BI**, **SQL**, **Excel**, and **Tableau**.
+---------------------------------
 
-With a strong foundation in **process improvement**, stakeholder communication, and data storytelling, I thrive on solving complex business problems through simple, scalable solutions.
+What I Bring
 
-A curious mind- blending process thinking, psychological insight, and data-driven decision-making to drive business transformation and people development. 
+Benefits Operations
 
-My foundation in organizational psychology enhances my stakeholder management and communication, enabling me to deliver solutions that are not only data-backed but also people-centric.
+Process Excellence
 
-🔍 Currently exploring opportunities in Business Analysis, Project Management, Quality Control — where human behavior meets operational excellence.
+AI Workflow Automation
 
----
+Analytics
 
-## 💼 What I Bring to the Table
+---------------------------------
 
-- **Business Analysis**  
-  - Requirements Gathering | Root Cause Analysis | Documentation | Stakeholder Engagement
+Featured AI Projects
 
-- **Data Analytics**  
-  - Dashboarding & Visualization | Ad-hoc Analysis | KPI Reporting | Trend Analysis
+AI SOP Generator
 
-- **Tech Stack & Tools**  
-  - 🟨 Power BI (Advance).
-  - 🔵 SQL (Intermediate).
-  - 🟢 Excel (Advanced Formulas, PivotTables, Dashboards).
-  - 🔴 Tableau (Advance, Storytelling).  
-  - 📁 Agile | Lean Six Sigma (Process Improvement Tools and Methodologies).
+AI RCA Assistant
 
-- **Certifications**  
-  - 📌 Certified Associate in Project Management (CAPM)  
-  - 📌 Lean Six Sigma Green Belt  
-  - 📌 Data Analytics for Business Professionals – LinkedIn Learning  
+AI Go-Live Risk Review
 
----
+---------------------------------
 
-## 🌱 Currently Learning
+Lean Six Sigma Projects
 
-- Advanced SQL for complex reporting  
-- Business Case Modeling  
-- Python (pandas, matplotlib) for data exploration  
-- Creating portfolio-ready BA case studies  
+---------------------------------
 
----
+Power BI Dashboards
+
+---------------------------------
+
+Currently Learning
+
+Prompt Engineering
+
+Google AI Studio
+
+OpenAI
+
+Claude
+
+AI Agents
+
+---------------------------------
+
+Certifications
+
+CAPM
+
+LSSGB
+
+ISO
+
+Power BI
+
+Prompt Engineering (In Progress)
+
+---------------------------------
 
 ## 🤝 Let’s Connect
 
 - 🔗 LinkedIn- https://www.linkedin.com/in/das-chandrani369/ 
 - 📫 Email: chandranidas234@gmail.com  
-- 🌐 Portfolio (coming soon!)
+- 🌐 Portfolio (In Progress)
 
 ---
 
-> _“Data is the new oil — and I love refining it into insights that drive decisions.”_
+> _''I believe AI won't replace Operations professionals.
+It will empower those who understand processes well enough to redesign them.
+My mission is to bridge Operations Excellence and Artificial Intelligence through practical workflow automation.''_
 
 Thanks for stopping by! Feel free to check out my pinned projects below 👇
